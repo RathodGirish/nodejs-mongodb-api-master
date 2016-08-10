@@ -1,0 +1,22 @@
+{
+  "name": "HDC_API",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "client-sessions": "^0.7.0",
+    "ejs": "^1.0.0",
+    "express": "^3.20.2",
+    "fs": "0.0.2",
+    "fs-extra": "^0.26.5",
+    "jade": "^1.11.0",
+    "json": "^9.0.3",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.3",
+    "mongoose-deep-populate": "^2.0.3",
+    "morgan": "^1.6.1",
+    "querystring": "^0.2.0",
+    "serve-static": "^1.10.2",
+    "url": "^0.11.0"
+  }
+}
